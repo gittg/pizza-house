@@ -13,12 +13,16 @@
             <img src="<%= p.path_to_image %>" />
             </div>
 
+            <div>
+              <%= p.description %>
+            </div>
+            
              <div>
-            <%= p.description %>
+              Price: <%= p.price %> $
             </div>
 
              <div>
-            <%= p.title %>
+              Size: <%= p.size %> cm
             </div>
     </div>
   <% end %>
