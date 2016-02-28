@@ -1,3 +1,15 @@
 #orders_button {
-  background-color: #2C3E50; 
+  background-color: #2C3E50;
+  border: none; 
+  color: #FFFFFF;
+  font-size: 18px;
+  padding-top: 15px;
+  padding-right: 15px;
+  text-decoration: underline;
+}
+#orders_button:hover {
+  background-color: #2C3E50;
+  border: none; 
+  color : #20B59C;
+  font-size: 18px;
 }
