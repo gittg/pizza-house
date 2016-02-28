@@ -12,4 +12,7 @@
   border: none; 
   color : #20B59C;
   font-size: 18px;
+  padding-top: 15px;
+  padding-right: 15px;
+  text-decoration: underline;  
 }
