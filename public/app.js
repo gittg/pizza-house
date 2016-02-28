@@ -63,3 +63,9 @@ function update_orders_button ()
       }
       return orders;
   }
+
+  function cancel_order()
+  {
+      alert('something');
+      return false;
+  }
